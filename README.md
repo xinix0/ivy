@@ -8,3 +8,6 @@ Several key problems to consider:
 
 Versionfs:
 https://www.fsl.cs.stonybrook.edu/project-versionfs.html
+
+Git-LFS:
+https://github.com/git-lfs/git-lfs
